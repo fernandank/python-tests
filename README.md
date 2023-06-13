@@ -1,2 +1,2 @@
 # python-tests
-Testing python code with good practices
+Testing python code with unittest, setup and tearDown
